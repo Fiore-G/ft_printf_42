@@ -1,2 +1,2 @@
 # ft_printf_42🖨️
-The goal of this project is to reprogram the printf() function. You will learn how to use a variable number of arguments and why it is important to protect the 'write' function in a project like this ⚔️
+El objetivo de este proyecto es reprogramar la función printf(). Aprenderás a usar un número variable de argumentos y por qué es importante proteger la función write en un proyecto como este ⚔️
